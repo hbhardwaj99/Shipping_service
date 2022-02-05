@@ -1,0 +1,13 @@
+.signInDiv {
+  background-color: darkgray;
+  text-align: center;
+  margin: auto;
+  margin-top: 80px;
+  width: 500px;
+}
+.signUpDiv {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 1000px;
+}

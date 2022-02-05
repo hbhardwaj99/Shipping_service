@@ -1,0 +1,15 @@
+.shipperTable {
+  width: 1000px;
+}
+.registerItemDiv {
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+  width: 1000px;
+}
+.updateItemDiv {
+  text-align: center;
+  margin: auto;
+
+  width: 800px;
+}
